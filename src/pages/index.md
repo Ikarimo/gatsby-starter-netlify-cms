@@ -5,12 +5,13 @@ image: /img/home-jumbotron.jpg
 heading: 〜ブログ、マインドマップ、勉強、youtubeなどなど〜
 subheading: 〜ブログ、マインドマップ、勉強、youtubeなどなど〜
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: iPadの可能性を探る
+  description: |-
+    先日、iPad pro 12.9インチ2018年モデルを買いました。
+
+    ただ、勢いで買ってしまったので、使用用途は特になかったのです。。
+
+    そこで、せっかく買ったのだから新しいことを始めてみようと思い、iPadって何に使えるの？どこまでできるの？を検証していこうと思います！
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
